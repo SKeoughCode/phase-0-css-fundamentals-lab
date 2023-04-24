@@ -1,5 +1,30 @@
 body {
-  width: 100%;
+  width: 50%;
   height: 100%;
-  margin: 0;
+  margin: auto;
+}
+
+figure {
+  margin: auto;
+}
+
+h3>p {
+  padding-left: 10px;
+  padding-right: 10px;
+  margin: auto;
+}
+
+p#featuredProperty {
+  width: 800px;
+}
+
+figcaption {
+  font-size: 15px;
+  margin: auto;
+}
+
+nav>a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: red;
 }
